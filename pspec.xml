@@ -29,7 +29,7 @@
         <Name>dbus-python-common</Name>
         <Summary>Common dbus-python files shared between dbus-python and dbus-python3</Summary>
         <RuntimeDependencies>
-            <Dependency>dbus</Dependency>
+            <Dependency>dbus-devel</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="header">/usr/include</Path>
